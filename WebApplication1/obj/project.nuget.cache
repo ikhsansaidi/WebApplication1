@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afPpm0XzISXfm1l/4umXaiKsOKDvto2afL9ozoMhlFxWZqGtcDceva7OwAvWgEa4fUIe00aCWRbYAocszvnZaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ikhsan.saidi\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\ikhsan.saidi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
