@@ -20,7 +20,7 @@ namespace WebApplication1
 
         public IConfiguration Configuration { get; }
 
-        // coba fetch pull ini lah - ikhsan remark test this method gets called by the runtime. Use this method to add services to the container.
+        // kok tdk ada beda dgn pull dgn fetch/? coba fetch pull ini lah - ikhsan remark test this method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
